@@ -14,4 +14,4 @@ Leading Model: The BMW 7 Series was the top revenue-generating model, achieving 
 
 This dashboard provides a comprehensive tool for tracking performance and informing strategic sales decisions.
 
-https://excel.cloud.microsoft/open/onedrive/?docId=A3B85B27821B228F%21s3e6d1eca18504605b5101fe904b4966d&driveId=A3B85B27821B228F
+https://onedrive.live.com/personal/a3b85b27821b228f/_layouts/15/Doc.aspx?sourcedoc=%7B7A5A417C-CE37-40AD-A68D-5A4D5217DBB8%7D&file=BMW_sales.xlsx&action=default&mobileredirect=true
